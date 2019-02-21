@@ -1,4 +1,8 @@
 Hello Git test 
 Git Examples
 
+<<<<<<< HEAD
 sdfkjghsjkdgfdjskgf
+=======
+asdefghjhgfdsa
+>>>>>>> a8fa556fb4148f7a6411a57206330e3aae087b8f
